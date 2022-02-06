@@ -1,0 +1,10 @@
+firstName: mustafa
+lastName: shaikh
+age: 09
+hobbies:
+    - type: Sports
+      value: Golf
+    - type: Leisure
+      value: Reading
+    - type: Leisure
+      value: Guitar
